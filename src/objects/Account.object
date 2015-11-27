@@ -19,6 +19,10 @@
                 <fullName>Yes</fullName>
                 <default>false</default>
             </picklistValues>
+            <picklistValues>
+                <fullName>May Be</fullName>
+                <default>false</default>
+            </picklistValues>
             <sorted>false</sorted>
         </picklist>
         <type>Picklist</type>
